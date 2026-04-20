@@ -42,7 +42,7 @@ El curso cubrirá los siguientes temas:
 ## Recursos adicionales
 
 * [Documentación oficial de Python](https://docs.python.org/3/)
-* [Documentación oficial de R](https://www.r-project.org/doc/manuals/r-release/full.pdf)
+* [Documentación oficial de R](https://cran.r-project.org/)
 * [Tutoriales de pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 * [Tutoriales de dplyr](https://dplyr.tidyverse.org/articles/dplyr.html)
 
