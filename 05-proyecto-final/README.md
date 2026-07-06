@@ -4,7 +4,7 @@ En el rol de **Consultor de Ciencia de Datos**, se nos ha encomendado la tarea f
 
 Este proyecto tiene como fin proporcionar una herramienta accesible para analizar el crecimiento de los paises facilitando la identificación de patrones y tendencias.
 
-### Estructura del Dashboard:
+### Estructura del Dashboard:
 
 La maqueta del dashboard se estructurará en dos componentes principales para una óptima experiencia de usuario:
 
@@ -150,4 +150,4 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
 
 ---
 
-[![Descargar](https://badgen.net/badge/dataset_simce/descargar/red)](https://raw.githubusercontent.com/profegarrido/intro-programacion/refs/heads/main/05-proyecto-final/pib.csv)
+[![Descargar](https://badgen.net/badge/dataset_PIB/descargar/red)](https://raw.githubusercontent.com/profegarrido/intro-programacion/refs/heads/main/05-proyecto-final/pib.csv)
