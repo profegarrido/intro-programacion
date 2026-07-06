@@ -29,7 +29,7 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
 
 
 
-xxxxxx
+<img src="https://github.com/profegarrido/intro-programacion/blob/main/05-proyecto-final/2026_pib.png" alt="Dashboard" />
 
 
 
