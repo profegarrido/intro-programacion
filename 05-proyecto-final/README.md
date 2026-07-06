@@ -150,7 +150,8 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
 
 ---
 
-[![Descargar](https://badgen.net/badge/dataset_PIB/descargar/red)](https://raw.githubusercontent.com/profegarrido/intro-programacion/refs/heads/main/05-proyecto-final/pib.csv)
+[![Descargar](https://badgen.net/badge/dataset_PIB/descargar/red)](https://drive.google.com/file/d/1oCdtDrSFynv8FMR5JAnjNrks8a0BEHGD/view?usp=sharing)
+
 
 
 ---
