@@ -1,5 +1,7 @@
 # Dashboard Interactivo: Crecimiento del PIB (% anual)
 
+# Entrega: 2026.07.15 - 15/07/2026
+
 En el rol de **Consultor de Ciencia de Datos**, se nos ha encomendado la tarea fundamental de desarrollar una **maqueta de Dashboard interactivo** utilizando la plataforma **Streamlit**. El objetivo principal de este dashboard es ofrecer una **visualización clara y dinámica del Crecimiento del PIB (% anual)**, permitiendo una exploración detallada de estos indicadores.
 
 Este proyecto tiene como fin proporcionar una herramienta accesible para analizar el crecimiento de los paises facilitando la identificación de patrones y tendencias.
