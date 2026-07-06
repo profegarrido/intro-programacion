@@ -106,15 +106,15 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
             <li>link funcional al dashboard, </li>
             <li>nombres y GitHub de integrantes.   </li>
           </ul>
-        <li>requirement.txt, que incluye lista precisa y minima de todas las librerías con versiones exactas , garantizando la reproducibilidad.</li></td>
+        <li>requirements.txt, que incluye lista precisa y minima de todas las librerías con versiones exactas , garantizando la reproducibilidad.</li></td>
       <td>Faltan uno o dos elementos menores 
         <li>README.md, contiene casi todos los elementos, aunque con redacción o formato mejorables. Link puede estar ausente o mal insertado</li>
-        <li>requirement.txt, incluye lista de casi todas las librerias usadas</li>
+        <li>requirements.txt, incluye lista de casi todas las librerias usadas</li>
       </td>
       <td>
         <li>Varios archivos clave ausentes o desordenados.</li> 
         <li>README.md poco claro. Faltan varios elementos o están mal explicados. El link no funciona. </li>
-        <li>requirement.txt Incompleto, faltan librerias o incluye innecesarias.</li>
+        <li>requirements.txt Incompleto, faltan librerias o incluye innecesarias.</li>
       </td>
       <td>
         <li>El repositorio está incompleto, vacío o con archivos incorrectos.</li> 
@@ -148,3 +148,6 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
   </tbody>
 </table>
 
+---
+
+[![Descargar](https://badgen.net/badge/dataset_simce/descargar/red)](https://drive.google.cl/file/d/1hlYAGrD4iBWyNRzS8ORyc92UXDB4GB5p/view?usp=sharing)
