@@ -151,3 +151,33 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
 ---
 
 [![Descargar](https://badgen.net/badge/dataset_PIB/descargar/red)](https://raw.githubusercontent.com/profegarrido/intro-programacion/refs/heads/main/05-proyecto-final/pib.csv)
+
+
+---
+
+<table border="1">
+  <tr>
+    <td>La OCDE (Organización para la Cooperación y el Desarrollo Económicos) es un foro internacional compuesto por 38 países</td>
+  </tr>
+  <tr>
+    <td>'Alemania', 'Australia', 'Austria', 'Bélgica', 'Canadá', 'Chile', 'Colombia', 'Corea, República de', 'Costa Rica', 'Dinamarca', 'República Eslovaca', 'Eslovenia', 'España', 'Estados Unidos', 'Estonia', 'Finlandia', 'Francia', 'Grecia', 'Hungría', 'Irlanda', 'Islandia', 'Israel', 'Italia', 'Japón', 'Letonia', 'Lituania', 'Luxemburgo', 'México', 'Noruega', 'Nueva Zelandia', 'Países Bajos', 'Polonia', 'Portugal', 'Reino Unido', 'República Checa', 'Suecia', 'Suiza', 'Turquía'</td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <td>El Foro de Cooperación Económica Asia-Pacífico (APEC) es una coalición de 21 economías de la cuenca del Pacífico</td>
+  </tr>
+  <tr>
+    <td>'Australia',  'Brunei Darussalam',  'Canadá',  'Chile',  'China',  'Corea, República de',  'Estados Unidos',  'Federación de Rusia',  'Filipinas',  'Hong Kong, Región Administrativa Especial',  'Indonesia',  'Japón',  'Malasia',  'México',  'Nueva Zelandia',  'Papua Nueva Guinea',  'Perú',  'Singapur',  'Viet Nam'</td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <td>El continente americano está conformado por 35 países independientes y soberanos, divididos tradicionalmente en cuatro regiones geográficas</td>
+  </tr>
+  <tr>
+    <td>'Antigua y Barbuda',  'Argentina',  'Bahamas',  'Barbados',  'Belice',  'Bolivia',  'Brasil',  'Canadá',  'Chile',  'Colombia',  'Costa Rica',  'Cuba',  'Dominica',  'Ecuador',  'El Salvador',  'Estados Unidos',  'Granada',  'Guatemala',  'Guyana',  'Haití',  'Honduras',  'Jamaica',  'México',  'Nicaragua',  'Panamá',  'Paraguay',  'Perú',  'República Dominicana',  'San Vicente y las Granadinas',  'Santa Lucía',  'Suriname',  'Trinidad y Tobago',  'Uruguay',  'Venezuela'</td>
+  </tr>
+</table>
