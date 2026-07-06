@@ -150,4 +150,4 @@ Este dashboard interactivo será una demostración de cómo el análisis de dato
 
 ---
 
-[![Descargar](https://badgen.net/badge/dataset_simce/descargar/red)](https://drive.google.cl/file/d/1hlYAGrD4iBWyNRzS8ORyc92UXDB4GB5p/view?usp=sharing)
+[![Descargar](https://badgen.net/badge/dataset_simce/descargar/red)](https://raw.githubusercontent.com/profegarrido/intro-programacion/refs/heads/main/05-proyecto-final/pib.csv)
