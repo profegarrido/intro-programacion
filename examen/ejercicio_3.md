@@ -9,24 +9,25 @@ Instrucciones de la Tarea
 Cálculo del Puntaje Navideño ($PN$):
 El puntaje final de comportamiento de cada personaje se calcula mediante una ponderación de tres factores (valores de $0$ a $100$):
 
-Acciones Buenas ($B$): $50\%$ de la nota ($0.50$)
+<ul>
+  <li>Acciones Buenas ($B$): $50\%$ de la nota ($0.50$)</li>
+  <li>Arrepentimiento / Redención ($A$): $30\%$ de la nota ($0.30$)</li>
+  <li>Inverso de Maldad ($100 - M$): $20\%$ de la nota ($0.20$)</li>
+</ul>
 
-Arrepentimiento / Redención ($A$): $30\%$ de la nota ($0.30$)
-
-Inverso de Maldad ($100 - M$): $20\%$ de la nota ($0.20$)
 
 $$PN = (B \cdot 0.50) + (A \cdot 0.30) + ((100 - M) \cdot 0.20)$$
 
 Función de Clasificación (evaluar_entregable):
 Cree una función llamada evaluar_entregable(puntaje) que reciba el Puntaje Navideño redondeado a 1 decimal y devuelva la decisión:
 
-"Regalo Especial de Santa 🎁": Si $PN \ge 60.0$
+<ul>
+  <li>"Regalo Especial de Santa 🎁": Si $PN \ge 60.0$</li>
+  <li>"Regalo Modesto / Carbón Dulce 🍬": Si $45.0 \le PN < 60.0$</li>
+  <li>"Bloque de Carbón por Krampus 🪨": Si $25.0 \le PN < 45.0$</li>
+  <li>"Castigo Severo del Krampus 👹": Si $PN < 25.0$</li>
+</ul>
 
-"Regalo Modesto / Carbón Dulce 🍬": Si $45.0 \le PN < 60.0$
-
-"Bloque de Carbón por Krampus 🪨": Si $25.0 \le PN < 45.0$
-
-"Castigo Severo del Krampus 👹": Si $PN < 25.0$
 
 Fase 1: Inspección de la Lista con Ciclo for:
 Recorra la base de datos de personajes, calcule su $PN$, llame a la función evaluar_entregable e imprima un informe detallado por consola.
@@ -42,75 +43,65 @@ El ciclo finaliza cuando se entregue el último personaje o cuando el saco de en
 
 Datos de Entrada (Base de Datos de Personajes)
 
-Personaje
 
-Tipo
 
-Acciones Buenas ($B$)
 
-Arrepentimiento ($A$)
+<table border="1">
+    <thead>
+        <tr>
+            <th>Personaje</th>
+            <th>Tipo</th>
+            <th>Acciones Buenas ($B$)</th>
+            <th>Arrepentimiento ($A$)</th>
+            <th>Nivel de Maldad ($M$)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Deadpool</td>
+            <td>Antihéroe</td>
+            <td>$75$</td>
+            <td>$60$</td>
+            <td>$40$</td>
+        </tr>
+        <tr>
+            <td>Loki</td>
+            <td>Antihéroe / Villano</td>
+            <td>$65$</td>
+            <td>$70$</td>
+            <td>$50$</td>
+        </tr>
+        <tr>
+            <td>Venom</td>
+            <td>Antihéroe</td>
+            <td>$55$</td>
+            <td>$50$</td>
+            <td>$45$</td>
+        </tr>
+        <tr>
+            <td>Harley Quinn</td>
+            <td>Antihéroe</td>
+            <td>$50$</td>
+            <td>$40$</td>
+            <td>$60$</td>
+        </tr>
+        <tr>
+            <td>Magneto</td>
+            <td>Villano Complejo</td>
+            <td>$35$</td>
+            <td>$30$</td>
+            <td>$75$</td>
+        </tr>
+        <tr>
+            <td>Joker</td>
+            <td>Supervillano</td>
+            <td>$5$</td>
+            <td>$0$</td>
+            <td>$98$</td>
+        </tr>
+    </tbody>
+</table>
 
-Nivel de Maldad ($M$)
-
-Deadpool
-
-Antihéroe
-
-$75$
-
-$60$
-
-$40$
-
-Loki
-
-Antihéroe / Villano
-
-$65$
-
-$70$
-
-$50$
-
-Venom
-
-Antihéroe
-
-$55$
-
-$50$
-
-$45$
-
-Harley Quinn
-
-Antihéroe
-
-$50$
-
-$40$
-
-$60$
-
-Magneto
-
-Villano Complejo
-
-$35$
-
-$30$
-
-$75$
-
-Joker
-
-Supervillano
-
-$5$
-
-$0$
-
-$98$
 
 Pauta de Verificación (Resultados Esperados)
 
