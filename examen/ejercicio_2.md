@@ -31,47 +31,48 @@ Datos de Entrada (Base de Datos de Mundos)
 
 Utilice los siguientes datos para alimentar su programa (Masa en la Tierra = $80\text{ kg}$):
 
-Planeta / Mundo
+<table>
+    <thead>
+        <tr>
+            <th>Planeta / Mundo</th>
+            <th>Origen</th>
+            <th>Gravedad Relativa ($g_{\text{relativa}}$)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Marte</td>
+            <td>Sistema Solar</td>
+            <td>$0.38$</td>
+        </tr>
+        <tr>
+            <td>Arrakis</td>
+            <td>Dune</td>
+            <td>$0.90$</td>
+        </tr>
+        <tr>
+            <td>Tatooine</td>
+            <td>Star Wars</td>
+            <td>$0.95$</td>
+        </tr>
+        <tr>
+            <td>Erid (Planeta de Rocky)</td>
+            <td>Project Hail Mary</td>
+            <td>$2.07$</td>
+        </tr>
+        <tr>
+            <td>Júpiter</td>
+            <td>Sistema Solar</td>
+            <td>$2.36$</td>
+        </tr>
+        <tr>
+            <td>Krypton</td>
+            <td>DC Comics</td>
+            <td>$4.00$</td>
+        </tr>
+    </tbody>
+</table>
 
-Origen
-
-Gravedad Relativa ($g_{\text{relativa}}$)
-
-Marte
-
-Sistema Solar
-
-$0.38$
-
-Arrakis
-
-Dune
-
-$0.90$
-
-Tatooine
-
-Star Wars
-
-$0.95$
-
-Erid (Planeta de Rocky)
-
-Project Hail Mary
-
-$2.07$
-
-Júpiter
-
-Sistema Solar
-
-$2.36$
-
-Krypton
-
-DC Comics
-
-$4.00$
 
 Pauta de Verificación (Resultados Esperados)
 
